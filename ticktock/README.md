@@ -62,7 +62,7 @@ Alternative credentials:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ticktock-timesheet.git
+   git remote add origin https://github.com/YaseenBepari02/Ticktock---Timesheet-Management-Application.git
    cd ticktock-timesheet
    ```
 
