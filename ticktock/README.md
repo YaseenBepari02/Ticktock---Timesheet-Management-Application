@@ -2,11 +2,11 @@
 
 A modern, responsive timesheet management SaaS application built with Next.js 15 and TypeScript for the TenTwenty Frontend Developer Technical Assessment.
 
-![Ticktock Dashboard](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=Ticktock+Dashboard)
+![Ticktock Dashboard]([https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=Ticktock+Dashboard](https://www.perplexity.ai/apps/60aaef7a-b5bb-49d6-b39d-c3973853e06a?0=d&preview=1))
 
 ## 🚀 Live Demo
 
-**Live Application**: [https://ticktock-timesheet.vercel.app](https://your-deployment-url-here.vercel.app)
+**Live Application**: [https://www.perplexity.ai/apps/60aaef7a-b5bb-49d6-b39d-c3973853e06a?0=d&preview=1](https://www.perplexity.ai/apps/60aaef7a-b5bb-49d6-b39d-c3973853e06a?0=d&preview=1)
 
 ## 🔑 Demo Credentials
 
