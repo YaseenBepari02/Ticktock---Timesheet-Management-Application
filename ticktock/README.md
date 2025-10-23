@@ -303,14 +303,6 @@ USING PREXPLITY
 - Some advanced filtering options are placeholder implementations
 - Pagination is functional but with mock data limitations
 
-## 📞 Support & Contact
-
-### Developer Information
-- **Name**: [Your Full Name]
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [your-linkedin-profile]
-- **GitHub**: [your-github-username]
-
 ### Assessment Details
 - **Company**: TenTwenty
 - **Position**: Frontend Developer
@@ -322,7 +314,6 @@ USING PREXPLITY
 This project is created for the TenTwenty Frontend Developer Technical Assessment and is intended for evaluation purposes only.
 
 ---
-
 ## 🙏 Acknowledgments
 
 - **TenTwenty Team**: For providing clear requirements and design specifications
